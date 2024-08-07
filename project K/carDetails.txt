@@ -1,0 +1,7 @@
+MODEL: 2015
+BRAND: volvo
+COLOR: red
+PLAT NO: 23
+
+
+
